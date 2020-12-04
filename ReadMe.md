@@ -224,7 +224,7 @@ Explanation:
     React follows 1-way data binding, angular follows 2-way data binding.
 
 24. What are some examples of key features required of web sites to be Accessible?
-    Good use of HTML headings(<h1> to <h6>).
+    Good use of HTML headings(<h1> - <h6>).
     Accessible with keyboard, images, menus, forms, tables, color, link text.
 
 ===============================
