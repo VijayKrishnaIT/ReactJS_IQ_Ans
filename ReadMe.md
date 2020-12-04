@@ -448,15 +448,15 @@ Explanation:
 
 76. What does a css elements hierachy? class, id, attributes, tag
 
-    Every selector has its place in the specificity hierarchy. There are four categories which define the specificity level of a selector:
+- Every selector has its place in the specificity hierarchy. There are four categories which define the specificity level of a selector:
 
-    Inline styles - An inline style is attached directly to the element to be styled. Example: <h1 style="color: #ffffff;">.
+- Inline styles - An inline style is attached directly to the element to be styled. Example: <h1 style="color: #ffffff;">.
 
-    IDs - An ID is a unique identifier for the page elements, such as #navbar.
+- IDs - An ID is a unique identifier for the page elements, such as #navbar.
 
-    Classes, attributes and pseudo-classes - This category includes .classes, [attributes] and pseudo-classes such as :hover, :focus etc.
+- Classes, attributes and pseudo-classes - This category includes .classes, [attributes] and pseudo-classes such as :hover, :focus etc.
 
-    Elements and pseudo-elements - This category includes element names and pseudo-elements, such as h1, div, :before and :after.
+- Elements and pseudo-elements - This category includes element names and pseudo-elements, such as h1, div, :before and :after.
 
 77. display: block !important;
     he display property specifies the display behavior (the type of rendering box) of an element.
